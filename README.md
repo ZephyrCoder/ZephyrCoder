@@ -8,7 +8,6 @@
 - Ruby
 - C
 - C++
-- C#
 - PHP
 - HTML5
 - CSS
