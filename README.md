@@ -5,7 +5,6 @@
 - Java
 - JavaScript
 - Python
-- Ruby
 - C
 - C++
 - PHP
