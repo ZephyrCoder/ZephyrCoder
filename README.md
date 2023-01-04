@@ -2,6 +2,7 @@
 
 ## Programming Languages
 
+- Bash/Shell
 - Java
 - JavaScript
 - Python
