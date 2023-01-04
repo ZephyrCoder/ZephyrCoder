@@ -6,7 +6,6 @@
 - Java
 - JavaScript
 - Python
-- C++
 - PHP
 - HTML5
 - CSS
